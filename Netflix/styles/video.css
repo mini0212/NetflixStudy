@@ -1,0 +1,43 @@
+.original-section {
+    position: relative;
+    background-color: black;
+    top: -10px;
+    z-index: 2;
+}
+
+.video-grid {
+    width: 100%;
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    gap: 30px;
+    margin: 8px 8px;
+    overflow-x: hidden;
+    position: relative;
+    scroll-behavior: smooth;
+    scrollbar-width: none;
+}
+
+.original-section__title {
+    font-size: 1rem;
+    font-weight: 600;
+    color: white;
+    text-transform: uppercase;
+}
+
+.video-grid__item {
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    transition: transform 0.25s;
+}
+
+.video-grid__item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.video-grid__item:hover {
+    transform: scale(1.1);
+}
