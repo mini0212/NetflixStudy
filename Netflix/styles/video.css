@@ -1,8 +1,10 @@
 .video-section {
     position: relative;
     background-color: black;
-    top: -10px;
+    top: -40px;
+    padding-bottom: 40px;
     z-index: 2;
+    box-shadow: 0 -50px 60px black;
 }
 
 .video-grid {
@@ -12,13 +14,16 @@
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     gap: 30px;
     margin: 8px 8px;
-    overflow-x: hidden;
+    overflow: hidden;
     position: relative;
+    /* 추후 스크롤.. */
     scroll-behavior: smooth;
     scrollbar-width: none;
 }
 
 .video-section__title {
+    margin-top: 16px;
+    margin-left: 4px;
     font-size: 1rem;
     font-weight: 600;
     color: white;
