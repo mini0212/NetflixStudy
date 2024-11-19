@@ -1,4 +1,4 @@
-.original-section {
+.video-section {
     position: relative;
     background-color: black;
     top: -10px;
@@ -18,7 +18,7 @@
     scrollbar-width: none;
 }
 
-.original-section__title {
+.video-section__title {
     font-size: 1rem;
     font-weight: 600;
     color: white;
