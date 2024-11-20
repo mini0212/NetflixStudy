@@ -17,6 +17,7 @@
 }
 
 .video-title {
+    margin-bottom: 8px;
     font-size: 6vw;
     font-weight: 600;
     color: var(--color-white);
@@ -39,10 +40,8 @@
 }
 
 .video-description {
-    font-size: 1rem;
-    font-weight: 400;
-    color: var(--color-white);
-    width: 400px;
+    margin-top: 8px;
+    width: 40%;
     max-height: 60px;
     text-overflow: ellipsis;
     font-size: 1.5vw;
