@@ -21,6 +21,10 @@
     scrollbar-width: none;
 }
 
+.video-grid::-webkit-scrollbar {
+    display: none;
+}
+
 .video-section__title {
     margin-top: 20px;
     margin-left: 4px;
