@@ -13,8 +13,9 @@
     display: grid;
     grid-auto-flow: column;
     gap: 30px;
-    margin: 8px 16px;
+    margin: 8px 20px;
     overflow-x: auto;
+    overflow-y: hidden;
 
     /* 추후 스크롤.. */
     scroll-behavior: smooth;
@@ -27,7 +28,7 @@
 
 .video-section__title {
     margin-top: 20px;
-    margin-left: 4px;
+    margin-left: 8px;
     font-size: 1rem;
     font-weight: 600;
     color: var(--color-white);
