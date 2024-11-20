@@ -45,3 +45,15 @@
 .video-grid__item:hover {
     transform: scale(1.1);
 }
+
+@media (max-width: 999px) {
+    .video-grid {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+@media (min-width: 1000px) {
+    .video-grid {
+        grid-template-columns: repeat(8, 1fr);
+    }
+}
