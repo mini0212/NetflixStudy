@@ -3,7 +3,7 @@
     background-color: var(--color-black);
     margin-top: -40px;
     padding-bottom: 40px;
-    z-index: 2;
+    z-index: 1;
     box-shadow: 0 -50px 60px var(--color-black);
 }
 
