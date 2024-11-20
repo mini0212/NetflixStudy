@@ -11,7 +11,18 @@
 
 
 ## 결과물
-<img width="971" alt="netflix_result" src="https://github.com/user-attachments/assets/0f03bde6-d4fc-4210-b829-7d099faca920">
+|결과물 1|
+|--|
+|<img width="1184" alt="스크린샷 2024-11-20 오전 9 16 51" src="https://github.com/user-attachments/assets/3c991697-dadf-4273-8cfb-b0e0fce83fa5">|
+
+|결과물 2|
+|--|
+|<img width="1184" alt="스크린샷 2024-11-20 오전 9 17 29" src="https://github.com/user-attachments/assets/532755cb-33ef-4068-adcf-66a1ba54b959">|
+
+|마우스 호버|
+|--|
+|<img width="1184" alt="스크린샷 2024-11-20 오전 9 17 55" src="https://github.com/user-attachments/assets/8343ec2f-30e5-4238-8977-a5e6ff1fdc31">|
+
 
 ### 짧은 회고
 아직 시맨틱 요소들을 어떻게 나누고 사용해야할지 잘 모르겠음. 기준을 좀 더 찾아봐야겠음.
