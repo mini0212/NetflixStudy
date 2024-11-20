@@ -15,18 +15,14 @@
 }
 
 .video-grid {
-    position: relative;
-    width: 100%;
     display: grid;
     grid-auto-flow: column;
-    gap: 30px;
-    margin: 8px 20px;
-    overflow-x: auto;
-    overflow-y: hidden;
-
-    /* 추후 스크롤.. */
-    scroll-behavior: smooth;
-    scrollbar-width: none;
+    column-gap: 32px;
+    row-gap: 20px;
+    padding: 8px 20px;
+    overflow: hidden;
+    grid-auto-flow: row;
+    grid-template-columns: repeat(8, 1fr);
 }
 
 .video-grid::-webkit-scrollbar {
