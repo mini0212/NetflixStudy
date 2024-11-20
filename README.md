@@ -13,15 +13,17 @@
 ## 결과물
 |결과물 1|
 |--|
-|<img width="1184" alt="스크린샷 2024-11-20 오전 9 16 51" src="https://github.com/user-attachments/assets/3c991697-dadf-4273-8cfb-b0e0fce83fa5">|
+|<img width="1306" alt="스크린샷 2024-11-20 오후 3 52 07" src="https://github.com/user-attachments/assets/c998ccec-6dec-46f7-830c-8dcd5701418c">|
 
 |결과물 2|
 |--|
-|<img width="1184" alt="스크린샷 2024-11-20 오전 9 17 29" src="https://github.com/user-attachments/assets/532755cb-33ef-4068-adcf-66a1ba54b959">|
+|<img width="1306" alt="스크린샷 2024-11-20 오후 3 52 10" src="https://github.com/user-attachments/assets/ce595e5e-665e-4eaf-b740-4c470ee4984b">|
+
 
 |마우스 호버|
 |--|
-|<img width="1184" alt="스크린샷 2024-11-20 오전 9 17 55" src="https://github.com/user-attachments/assets/8343ec2f-30e5-4238-8977-a5e6ff1fdc31">|
+|<img width="698" alt="스크린샷 2024-11-20 오후 3 52 32" src="https://github.com/user-attachments/assets/27a1cf85-97cb-4c54-8790-5046be293041">|
+
 
 
 ### 짧은 회고
@@ -33,11 +35,11 @@ div로 감쌀경우 어디까지 어떻게 감쌀 것인가? stackView로 생각
 
 레이아웃 짜는게 생각보다 쉬운데 어렵다. 더 짜봐야할듯..ㅎㅎ
 
-왜 화면에 가로 스크롤이 생길까ㅠ..
+
 
 
 ### 완성하고 난 후의 TODO
-- [ ] 배너의 텍스트 간격 수정하기
-- [ ] 이미지 크기를 좀 더 유동적으로 수정하기
+- [x] 배너의 텍스트 간격 수정하기
+- [x] 이미지 크기를 좀 더 유동적으로 수정하기
 - [ ] 이미지 크기는 그대로 두고 스크롤 추가하기?
-- [ ] 마우스 호버 시 상하의 이미지가 잘리는 것 해결하기
+- [x] 마우스 호버 시 상하의 이미지가 잘리는 것 해결하기
