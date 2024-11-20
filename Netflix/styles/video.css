@@ -7,6 +7,13 @@
     box-shadow: 0 -50px 60px var(--color-black);
 }
 
+.video-section__title {
+    margin: 8px 12px;
+    font-size: 2vw;
+    font-weight: 600;
+    color: var(--color-white);
+}
+
 .video-grid {
     position: relative;
     width: 100%;
@@ -24,14 +31,6 @@
 
 .video-grid::-webkit-scrollbar {
     display: none;
-}
-
-.video-section__title {
-    margin-top: 20px;
-    margin-left: 8px;
-    font-size: 1rem;
-    font-weight: 600;
-    color: var(--color-white);
 }
 
 .video-grid__item {

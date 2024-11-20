@@ -17,7 +17,7 @@
 }
 
 .video-title {
-    font-size: 3rem;
+    font-size: 6vw;
     font-weight: 600;
     color: var(--color-white);
 }
@@ -31,10 +31,9 @@
     background-color: rgba(255, 255, 255, 0.2);
     border: none;
     border-radius: 4px;
-    font-size: 0.9rem;
+    font-size: 1.5vw;
     font-weight: 500;
     color: var(--color-white);
-    text-decoration: none;
     cursor: pointer;
     padding: 8px 20px;
 }
@@ -46,5 +45,8 @@
     width: 400px;
     max-height: 60px;
     text-overflow: ellipsis;
+    font-size: 1.5vw;
+    font-weight: 400;
+    color: var(--color-white);
     overflow: hidden;
 }
